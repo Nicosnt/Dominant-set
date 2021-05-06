@@ -1,6 +1,6 @@
 # Dominant-set
 
-Ce code permet de calculer les poids de tout sous ensemble) de cardinal n rentré en paramètre
+Ce code permet de calculer les poids de tout sous ensemble de cardinal n rentré en paramètre
 
 la fonction weight prend en entrée 2 éléments : 
 1. la matrice d'adjacence du graphe
