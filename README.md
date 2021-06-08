@@ -1,6 +1,6 @@
 # Dominant-set
 
-Ce m´emoire porte sur l’analyse et l’impl´ementation des m´ethodes propos´ees par le papier suivant : A New Graph-Theoretic Approach to Clustering and Segmentation publié par Massimiliano Pavan et Marcello Pelillo à l’occasion de la Conference on Computer Vision and Pattern Recognition en 2003.
+Ce mémoire porte sur l’analyse et l’implémentation des méthodes proposées par le papier suivant : A New Graph-Theoretic Approach to Clustering and Segmentation publié par Massimiliano Pavan et Marcello Pelillo à l’occasion de la Conference on Computer Vision and Pattern Recognition en 2003.
 
 Il s’agit d’une méthode issue de la théorie des graphes qui généralise la notion de clique maximale aux graphes pondérés. Elle est utilisée pour trouver un sous-ensemble compact, cohérent et bien séparé de sommets dans un graphe, c’est-à-dire un ensemble dominant (Dominant Set).
 
